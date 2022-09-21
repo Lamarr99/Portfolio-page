@@ -13,7 +13,7 @@ body{
   scroll-behavior: smooth ;
 }
 :root{
---primary-grey: #a8b2d1;
+--primary-grey: rgb(168, 178, 209);
 --primary-grey2: #8892b0;
 --primary-turquoise: #07bec7;
 --primary-dark:#0a192f;

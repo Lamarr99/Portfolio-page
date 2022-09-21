@@ -1,5 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {  faLightbulb,  } from '@fortawesome/free-solid-svg-icons'
+
 import React from 'react';
 import tony from './img/tony.JPG'
 

@@ -1,8 +1,7 @@
 import React from "react";
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+
 
 
  function Header() {
@@ -19,7 +18,7 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
       typeSpeed: 80,
       backSpeed: 70,
       backDelay: 100,
-      loop:false
+      loop:true
     });
 
     return () => {
