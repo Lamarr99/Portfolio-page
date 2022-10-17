@@ -55,8 +55,8 @@ import { useEffect, useRef } from "react";
         <a href="#"  className="btn-main-offer hvr-bounce-to-right mb-5 text-center" download='01-Tony Osijo'>Resume</a>
         </div>
       </div>
-      <div class="area" >
-            <ul class="circles">
+      <div className="area" >
+            <ul className="circles">
                     <li></li>
                     <li></li>
                     <li></li>
