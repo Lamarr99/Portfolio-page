@@ -11,10 +11,10 @@ const About = () => {
 
 <hr className='hr'/>
 </div>
-<div className=' d-flex flex-row flex-wrap justify-content-evenly container'>
+<div className='d-flex flex-row flex-wrap justify-content-evenly container'>
   
 <div>
-<p className='  contact-paragraph  mt-3 text-dark'>Hello! My name is Tony and I enjoy creating things that live  on the internet.
+<p className='contact-paragraph  mt-3 text-dark'>Hello! My name is Tony and I enjoy creating things that live  on the internet.
 
  My interest in web development started back  in 2019 when I decided to try making a landing page for a friend's Affiliate 
  marketing business 

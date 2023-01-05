@@ -1,7 +1,7 @@
 import React from 'react';
-import { faAngleDoubleUp, faEnvelope, faEnvelopeOpen, faPhone, } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelopeOpen, faPhone, } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon  } from '@fortawesome/react-fontawesome'
-import { faGithub, faTwitter, faWhatsapp, faLinkedin,  } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faWhatsapp, faLinkedin,  } from '@fortawesome/free-brands-svg-icons'
 
 const MyForm = (props) => (
   <div id='contact' className='bg-darks'>
