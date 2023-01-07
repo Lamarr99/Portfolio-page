@@ -5,8 +5,8 @@
 
 body{
   font-family: "Poppins" sans-serif;
-  font-size: 16px;
 }
+
 *{
   box-sizing: border-box;
   scroll-behavior: smooth ;
@@ -20,7 +20,9 @@ body{
 --primary-silver: hsl(0,0%,74%);
 --primary-black:#1A1A1D;
 --primary-blue: #4e54c8;
+--font-main: Poppins;
 }
+
 nav a.nav-link {
   position: relative;
 font-weight: 500; 
@@ -32,6 +34,7 @@ padding: .3rem;
 overflow: hidden;
 
 }
+
 #underline {
   width: 100%;
   height: 1px;
@@ -47,6 +50,7 @@ overflow: hidden;
 .nav-link:hover #underline {
   left: 0;
 }
+
 .main-text{
  display: block;
 }
@@ -107,6 +111,7 @@ height: 100vh;
   max-width: 10rem;
   max-height: 10rem;
 }
+
 .main-info {
 display: flex;
 position: absolute;
@@ -116,10 +121,12 @@ font-family: 'Raleway' sans-serif;
 z-index: 1;
 background: transparent;
 }
+
 .main-head{
   position: relative;
   height: 5rem;
 }
+
 .my-name{
   color: #ccd6f6;
   font-family: 'Raleway', sans-serif !important;
@@ -156,8 +163,6 @@ padding: 0.5rem;
 
 background-color: transparent;
 }
-
-
 
 .btn-main-offers {
   border-radius: 0;
